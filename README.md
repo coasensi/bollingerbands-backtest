@@ -9,4 +9,3 @@ BUY when the price crosses the lower band from the top. Hold until it crosses th
 SELL when the price crosses the upper band from below. Hold until it crosses the lower band from the top.
 
 This strategy leverages mean reversion, expecting prices to revert back to the mean (SMA) over time.
-
